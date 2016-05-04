@@ -36,3 +36,6 @@ You can access the Sufia ac4_eval instance from you host machine in the project 
 ## Known issues
 * `rake hydra:server' does not work because we need to bind rails to 0.0.0.0 in order to enable port forwarding to the host machine.
 * Login to Sufia does not work
+
+##Credits
+Part of the install scripts coming from various branches in https://github.com/fcrepo4-exts/fcrepo4-vagrant, thanks!
